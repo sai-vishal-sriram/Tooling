@@ -9,9 +9,6 @@ f.close()
 
 app = Flask(__name__)
 
-def test(server,cmd):
-    return cmd
-
 def get_command_output(server, cmd):
     ssh_cmd = f"ssh {server} '{cmd}'"
     process = subprocess.Popen(ssh_cmd, stdout=subprocess.PIPE, shell=True)

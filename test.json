@@ -1,0 +1,38 @@
+{
+    "PDC1": {
+        "SBSUI": {
+            "server1": {
+                "day": "day0"
+            },
+            "server2": {
+                "day": "day0"
+            }
+        },
+        "EBWS": {
+            "server1": {
+                "day": "day0"
+            },
+            "server2": {
+                "day": "day0"
+            }
+        }
+    },
+    "PDC3": {
+        "SBSUI": {
+            "server1": {
+                "day": "day0"
+            },
+            "server2": {
+                "day": "day0"
+            }
+        },
+        "EBWS": {
+            "server1": {
+                "day": "day0"
+            },
+            "server2": {
+                "day": "day0"
+            }
+        }
+    }
+}
